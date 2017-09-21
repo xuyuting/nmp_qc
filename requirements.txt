@@ -5,3 +5,4 @@ wget
 networkx
 joblib
 tensorboard
+tensorboard_logger
